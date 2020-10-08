@@ -1,4 +1,4 @@
-PROJECT_NAME = Calculator
+PROJECT_NAME = Factorial
 
 # Output directory
 BUILD = build
