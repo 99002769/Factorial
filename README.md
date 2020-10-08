@@ -1,1 +1,1 @@
-# Fibonaci
+# Factorial
